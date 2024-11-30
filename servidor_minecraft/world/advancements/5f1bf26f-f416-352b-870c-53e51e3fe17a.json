@@ -1,0 +1,556 @@
+{
+  "minepiece:start_mine_piece": {
+    "criteria": {
+      "start_mine_piece_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_charactor_skills": {
+    "criteria": {
+      "mine_piece_charactor_skills_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_skypiea": {
+    "criteria": {
+      "battle_skypiea_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-11-30 16:31:21 +0000",
+      "has_black_balloon": "2024-11-30 16:31:21 +0000",
+      "has_lime_balloon": "2024-11-30 16:31:21 +0000",
+      "has_cyan_balloon": "2024-11-30 16:31:21 +0000",
+      "has_light_blue_balloon": "2024-11-30 16:31:21 +0000",
+      "has_gray_balloon": "2024-11-30 16:31:21 +0000",
+      "has_pink_balloon": "2024-11-30 16:31:21 +0000",
+      "has_light_gray_balloon": "2024-11-30 16:31:21 +0000",
+      "has_white_balloon": "2024-11-30 16:31:21 +0000",
+      "has_blue_balloon": "2024-11-30 16:31:21 +0000",
+      "has_yellow_balloon": "2024-11-30 16:31:21 +0000",
+      "has_purple_balloon": "2024-11-30 16:31:21 +0000",
+      "has_orange_balloon": "2024-11-30 16:31:21 +0000",
+      "has_brown_balloon": "2024-11-30 16:31:21 +0000",
+      "has_green_balloon": "2024-11-30 16:31:21 +0000",
+      "has_magenta_balloon": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_advancements": {
+    "criteria": {
+      "battle_advancements_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_west_blue": {
+    "criteria": {
+      "battle_west_blue_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_south_blue": {
+    "criteria": {
+      "battle_south_blue_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_new_world": {
+    "criteria": {
+      "battle_new_world_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_red_line": {
+    "criteria": {
+      "battle_red_line_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_haki_skills": {
+    "criteria": {
+      "mine_piece_haki_skills_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_reverse_mountain": {
+    "criteria": {
+      "battle_reverse_mountain_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_north_blue": {
+    "criteria": {
+      "battle_north_blue_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_skills": {
+    "criteria": {
+      "mine_piece_skills_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_grand_line": {
+    "criteria": {
+      "battle_grand_line_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_east_blue": {
+    "criteria": {
+      "battle_east_blue_0": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2024-11-30 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-11-30 17:50:50 +0000",
+      "minecraft:birch_forest": "2024-11-30 17:05:08 +0000",
+      "minecraft:beach": "2024-11-30 17:03:17 +0000",
+      "minecraft:river": "2024-11-30 17:04:54 +0000",
+      "minecraft:forest": "2024-11-30 16:31:22 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-30 17:48:30 +0000",
+      "minecraft:ocean": "2024-11-30 17:26:18 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-30 17:04:25 +0000",
+      "minecraft:plains": "2024-11-30 16:47:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 16:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-30 16:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 16:39:04 +0000"
+    },
+    "done": true
+  },
+  "minepiece:skill_giant_advancement": {
+    "criteria": {
+      "skill_giant_advancement_0": "2024-11-30 16:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-30 16:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-30 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-30 16:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-11-30 16:59:43 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-11-30 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 17:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-11-30 17:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-11-30 17:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-11-30 17:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-30 17:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-30 17:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-30 17:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-30 17:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-30 17:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-30 17:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-30 17:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-30 17:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-30 18:07:03 +0000",
+      "mutton": "2024-11-30 18:02:38 +0000",
+      "carrot": "2024-11-30 17:43:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 17:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-30 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_buchi": {
+    "criteria": {
+      "battle_buchi_0": "2024-11-30 17:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-30 17:57:30 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_luffy_1": {
+    "criteria": {
+      "battle_luffy_1_0": "2024-11-30 17:58:59 +0000"
+    },
+    "done": true
+  },
+  "minepiece:grade_30_m": {
+    "criteria": {
+      "grade_30_m_0": "2024-11-30 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-30 18:03:15 +0000"
+    },
+    "done": true
+  },
+  "minepiece:update": {
+    "criteria": {
+      "update_0": "2024-11-30 18:12:49 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_morgan": {
+    "criteria": {
+      "battle_morgan_0": "2024-11-30 18:11:53 +0000"
+    },
+    "done": true
+  },
+  "minepiece:battle_gin": {
+    "criteria": {
+      "battle_gin_0": "2024-11-30 18:17:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
